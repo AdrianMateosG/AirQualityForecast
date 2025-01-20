@@ -1,0 +1,12 @@
+pandas
+seaborn
+matplotlib
+plotly
+scipy
+statsmodels
+holidays
+keras
+scikit-learn
+tensorflow
+geopandas
+folium
