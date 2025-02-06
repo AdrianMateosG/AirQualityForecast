@@ -27,3 +27,4 @@ This project was originally developed as part of a group effort at Tecnológico 
 - José Antonio Torres Villegas  
 - Juan Marco Castro Trinidad  
 - Alexei Carrillo Acosta
+- Adrian Mateos Garza (myself)
